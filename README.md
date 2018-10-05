@@ -1,2 +1,2 @@
 # awsdemophpwebapp
-PHP App for AWS Demos
+PHP App for AWS Demo

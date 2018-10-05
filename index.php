@@ -13,7 +13,7 @@ echo "<HTML>
 <H2><B>Local Hostname:</B><FONT COLOR=\"blue\"> $lhostname</FONT></H2>
 <H2><B>Local IP:</B><FONT COLOR=\"blue\"> $lipaddress</FONT></H2>
 <BR><HR><BR>
-<P>This server is currently online and the Apache process is serving up web pages.</P>
+<P>This server is currently online and the webserver process is serving up web pages.</P>
 </CENTER>
 </BODY>
 </HTML>";

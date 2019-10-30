@@ -7,7 +7,7 @@ $lipaddress = file_get_contents('http://169.254.169.254/latest/meta-data/local-i
 echo "<HTML>
 <BODY>
 <CENTER>
-<H1><FONT COLOR=\"green\">I AM ALIVE!</FONT></H1>
+<H1><FONT COLOR=\"green\">I AM ONLINE!</FONT></H1>
 <H2><B>Public Hostname:</B><FONT COLOR=\"blue\"> $phostname</FONT></H2>
 <H2><B>Public IP:</B><FONT COLOR=\"blue\"> $pipaddress</FONT></H2>
 <H2><B>Local Hostname:</B><FONT COLOR=\"blue\"> $lhostname</FONT></H2>

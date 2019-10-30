@@ -1,2 +1,2 @@
 # awsdemophpwebapp
-PHP App for AWS Demo
+This is a sample PHP app for AWS demonstrations.
